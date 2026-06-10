@@ -1,5 +1,4 @@
-```html
-<h1 align="center">AgriSmart AI</h1>
+<h1 align="center">🌾 AgriSmart AI</h1>
 
 <p align="center">
 AI-Powered Smart Farming Assistant for Modern Agriculture
@@ -7,68 +6,67 @@ AI-Powered Smart Farming Assistant for Modern Agriculture
 
 <hr>
 
-<h2>Project Overview</h2>
+<h2>📌 Project Overview</h2>
 
 <p>
-AgriSmart AI is an intelligent agriculture assistance platform designed to empower farmers through Artificial Intelligence, Computer Vision, Voice Technology, Weather Analytics, and Regional Language Support.
-</p>
+AgriSmart AI is an intelligent agriculture assistance platform designed to empower farmers with data-driven decision-making tools. The platform combines Artificial Intelligence, Computer Vision, Voice Technology, Weather Analytics, and Regional Language Support to help farmers improve productivity, reduce losses, and adopt sustainable farming practices.
 
-<p>
-The platform helps farmers make informed decisions, improve crop productivity, reduce losses, and adopt sustainable farming practices. By combining AI-driven insights with multilingual accessibility and voice-enabled interactions, AgriSmart AI bridges the technology gap between modern agricultural innovation and rural farming communities.
-</p>
-
-<hr>
-
-<h2>Core Features</h2>
-
-<h3>AI-Powered Agricultural Advisory Assistant</h3>
-
-<p>
-Provides intelligent crop-specific recommendations, fertilizer suggestions, irrigation planning, pest management guidance, and personalized farming advice based on crop type, season, weather conditions, and farm data.
-</p>
-
-<h3>AI Crop Quality Scan & Disease Detection</h3>
-
-<p>
-Uses Computer Vision and Deep Learning models to identify crop diseases, nutrient deficiencies, pest infestations, crop maturity levels, and overall crop quality from uploaded images.
-</p>
-
-<h3>Voice-Based Farmer Assistant</h3>
-
-<p>
-Enables farmers to interact with the platform using voice commands and receive audio responses, making agricultural guidance accessible to users with limited literacy and technical expertise.
-</p>
-
-<h3>Regional Language Translation System</h3>
-
-<p>
-Supports multiple Indian languages and automatically translates recommendations, alerts, and farming guidance into the farmer's preferred language.
-</p>
-
-<h3>Smart Weather & Farm Health Dashboard</h3>
-
-<p>
-Provides real-time weather insights, rainfall forecasts, humidity monitoring, temperature trends, weather-based alerts, and a Farm Health Score for proactive decision-making.
+The solution is specifically designed to bridge the technology gap in rural agriculture by providing easy-to-use interfaces, multilingual support, and AI-driven recommendations that can be accessed through both text and voice interactions.
 </p>
 
 <hr>
 
-<h2>AI Integration</h2>
+<h2>🚀 Core Features</h2>
+
+<h3>1️⃣ AI-Powered Agricultural Advisory Assistant</h3>
 
 <p>
-AgriSmart AI integrates Natural Language Processing, Computer Vision, Machine Learning, Speech Processing, and Predictive Analytics to provide intelligent agricultural recommendations, disease detection, multilingual assistance, and data-driven farming insights.
+The platform includes an intelligent farming assistant capable of answering agriculture-related queries in real time. Farmers can receive crop-specific recommendations, fertilizer suggestions, irrigation guidance, pest management advice, and best farming practices. The assistant analyzes user inputs and provides personalized recommendations based on crop type, season, and farming conditions.
+</p>
+
+<h3>2️⃣ AI Crop Quality Scan & Disease Detection</h3>
+
+<p>
+Using Computer Vision and Deep Learning, farmers can upload images of crops to identify diseases, nutrient deficiencies, pest infestations, and crop health issues. The system also provides crop quality grading, harvest readiness analysis, and actionable recommendations to improve crop quality and yield.
+</p>
+
+<h3>3️⃣ Voice-Based Farmer Assistant</h3>
+
+<p>
+To support farmers with limited literacy or technical expertise, the platform offers voice-enabled interaction. Farmers can ask questions through speech, and the system converts voice inputs into actionable queries. Responses can be delivered as audio outputs, making agricultural guidance accessible to a wider audience.
+</p>
+
+<h3>4️⃣ Regional Language Translation System</h3>
+
+<p>
+The platform supports multiple Indian languages, enabling farmers to receive recommendations in their preferred language. Agricultural advisories, disease diagnoses, weather alerts, and AI-generated insights are automatically translated into regional languages to improve accessibility and understanding.
+</p>
+
+<h3>5️⃣ Smart Weather & Farm Health Dashboard</h3>
+
+<p>
+A comprehensive dashboard provides real-time weather updates, rainfall forecasts, temperature trends, humidity levels, and weather-based farming alerts. The system also generates a Farm Health Score by analyzing crop conditions, farming activities, and environmental factors to help farmers make informed decisions.
 </p>
 
 <hr>
 
-<h2>Technology Stack</h2>
+<h2>🤖 Artificial Intelligence Integration</h2>
+
+<p>
+AgriSmart AI integrates multiple AI technologies to provide intelligent and personalized farming support. Natural Language Processing powers the Agricultural Advisory Assistant, Computer Vision models enable crop disease detection and quality assessment, while Machine Learning algorithms generate crop recommendations based on environmental conditions and farming history. AI-driven analytics also help identify risks, improve productivity, and support proactive decision-making.
+</p>
+
+<hr>
+
+<h2>🛠 Technology Stack</h2>
 
 <h3>Frontend</h3>
 
 <ul>
 <li>Next.js</li>
-<li>TypeScript</li>
+<li>React.js</li>
 <li>Tailwind CSS</li>
+<li>TypeScript</li>
 <li>ShadCN UI</li>
 </ul>
 
@@ -102,57 +100,29 @@ AgriSmart AI integrates Natural Language Processing, Computer Vision, Machine Le
 <ul>
 <li>Whisper Speech-to-Text</li>
 <li>gTTS Text-to-Speech</li>
-<li>IndicTrans2</li>
-</ul>
-
-<h3>Weather Intelligence</h3>
-
-<ul>
-<li>OpenWeatherMap API</li>
-</ul>
-
-<h3>Authentication & Storage</h3>
-
-<ul>
-<li>Supabase Auth</li>
-<li>Supabase Storage</li>
+<li>IndicTrans</li>
+<li>Google Translate API</li>
 </ul>
 
 <h3>Cloud & Deployment</h3>
 
 <ul>
 <li>Vercel</li>
-<li>Render</li>
+<li>Supabase</li>
 <li>Docker</li>
 <li>GitHub Actions</li>
 </ul>
 
 <hr>
 
-<h2>Expected Impact</h2>
+<h2>🎯 Expected Impact</h2>
 
 <p>
-The platform aims to increase agricultural productivity, improve crop quality, reduce farming risks, enhance accessibility to expert agricultural guidance, and support sustainable farming practices through AI-driven decision support.
+AgriSmart AI aims to increase agricultural productivity, improve crop quality, reduce disease-related losses, and make expert farming guidance accessible to every farmer. By combining AI, voice assistance, multilingual support, and real-time analytics, the platform seeks to create a more inclusive and technology-driven agricultural ecosystem.
 </p>
 
 <hr>
 
-<h2>Future Scope</h2>
-
-<ul>
-<li>Satellite-based Crop Monitoring</li>
-<li>Yield Prediction Models</li>
-<li>AI-Powered Market Price Forecasting</li>
-<li>IoT-Based Smart Irrigation Integration</li>
-<li>Government Scheme Recommendation Engine</li>
-<li>Farmer Community Collaboration Platform</li>
-</ul>
-
-<hr>
-
-<h2>Vision</h2>
-
-<p>
-To empower farmers with intelligent, accessible, and data-driven agricultural solutions that improve livelihoods, increase productivity, and promote sustainable farming through Artificial Intelligence.
-</p>
-```
+<h2 align="center">
+🌱 Empowering Farmers Through Artificial Intelligence
+</h2>
